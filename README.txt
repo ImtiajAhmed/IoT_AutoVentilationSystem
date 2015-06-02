@@ -1,0 +1,3 @@
+A small project on Internet of Things course. The system will check the temperature and humidity periodically (10mins). Depending on the both readings Arduino microcontroller controlled servo motor to open or close the window of the mini-greenhouse. The amount of opening and closing depends completely on the sensor readings.
+
+You are free to use it for education, scientific, or private use. Please acknowldege appropriately.
